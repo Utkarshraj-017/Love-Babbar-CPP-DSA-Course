@@ -1,0 +1,14 @@
+# Lecture Codes
+
+|  **Problem**  |  **Solution**  |  **Level**  |
+|:--------------|:--------------:|:-----------:|
+|  [N meetings in one room](https://www.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_122/Lecture_Codes/dice_throw_1.cpp) |  Easy  |
+|  [Shop in Candy Store](https://www.geeksforgeeks.org/problems/shop-in-candy-store1145/1)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_122/Lecture_Codes/dice_throw_1.cpp) |  Easy  |
+|  [Check if it is possible to survive on Island](https://www.geeksforgeeks.org/problems/check-if-it-is-possible-to-survive-on-island4922/1)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_122/Lecture_Codes/dice_throw_1.cpp) |  Easy  |
+|  [Chocolate Distribution Problem](https://www.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_122/Lecture_Codes/dice_throw_1.cpp) |  Easy  |
+|  [Maximum Meetings in One Room](https://www.geeksforgeeks.org/problems/maximum-meetings-in-one-room/1)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_122/Lecture_Codes/dice_throw_1.cpp) |  Medium  |
+|  [Activity Selection](https://www.geeksforgeeks.org/problems/activity-selection-1587115620/1)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_122/Lecture_Codes/dice_throw_1.cpp) |  Medium  |
+|  [Minimum Cost of ropes](https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_122/Lecture_Codes/dice_throw_1.cpp) |  Medium  |
+|  [Fractional Knapsack](https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_122/Lecture_Codes/dice_throw_1.cpp) |  Medium  |
+|  [Job Sequencing Problem](https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_122/Lecture_Codes/dice_throw_1.cpp) |  Medium  |
+|  [Huffman Encoding](https://www.geeksforgeeks.org/problems/huffman-encoding3345/1)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_122/Lecture_Codes/dice_throw_1.cpp) |  Hard  |
